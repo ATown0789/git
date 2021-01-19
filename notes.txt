@@ -1,1 +1,7 @@
 Adding some text to the .txt file as per instructions
+
+Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+
+Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+
+Lorem ipsum, dolor sit amet consectetur adipisicing elit.
